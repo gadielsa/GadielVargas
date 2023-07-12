@@ -1,4 +1,4 @@
-### Opa! Eu sou o Gadiel Vargas
+### Olá! Eu sou o Gadiel Vargas.
 
 <div align="center">
   <a href="https://github.com/GadielVargas">
