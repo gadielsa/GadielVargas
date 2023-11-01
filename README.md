@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/GadielVargas">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielVargas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielVargas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
