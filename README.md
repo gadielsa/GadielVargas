@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gadiel Vargas.
+### Hello world! Me chamo Gadiel Vargas, seja bem vindo ao meu perfil.
 
 <div>
   <a href="https://github.com/GadielVargas">
