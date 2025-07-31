@@ -1,7 +1,7 @@
 ### Hello world! Seja bem vindo ao meu perfil.
 
 <div>
-  <a href="https://github.com/GadielVargas">
+  <a href="https://github.com/gadielsa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielVargas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
